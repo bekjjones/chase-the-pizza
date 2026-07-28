@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAP////8AAAD/VVVVVf8A8FVVVVVVVQ/wVVVV9VVV/19V9V/1X1X1X1VVX/XzVfVfVVVV9TNf9V9VVVX1M1/1X1VVVfUzX/VfVVVV9TNf9V9V9V/181X1X1VVX/VfVfXwVVVV9VVV//BVVVVVVVUPAP9VVVVV/wAAAP////8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Smiley"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAADMAAAAAAAAAMzMzAAAAAAAzMzMzAAAAADMzMzMAAAAAADMzMwMAAAAAMDMzAwAAAAAwMzMzAAAAMDMzMzMAAAAwMzMzAAAAADAzMwMAAAAAMDMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Heart"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAC7RAAAAAAAu11NAAAAALsjU00AAAC7XSJSTQAAu11XI10EALA9MlVV1QS7SyUiVVfVBEu7NTJVVUUAS7RVVSNTTQBLtFRXIlJNALBES1UjU00AAEvkVFXVBAAAsETuVd0EAAAAS+Te7QAAAACw5O5OAAAAAADu7gQAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pizza"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
